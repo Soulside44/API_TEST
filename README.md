@@ -20,9 +20,11 @@ Body
 #### success
 <pre>
 {
- '_id':'mongodb ObjectID',
  'id':'yourID',
+ 'password':'encrytedPassword',
  'nickname':'yourNickname'
+ 'salt': 'salt for encryption',
+ '_id': 'mongodb ObjectID'
 }
 </pre>
 #### fail
