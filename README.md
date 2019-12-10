@@ -38,6 +38,7 @@ Body
 ### Request
 
 > [POST] /users/login
+
 Body
 <pre>
 {
